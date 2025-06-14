@@ -74,7 +74,7 @@ $userName = $_SESSION["user_name"] ?? 'Guest'; // Fallback to 'Guest' if for som
 
         <div class="dashboard-links">
             <a href="quiz.php">Take Quiz</a>
-            <a href="view-questions.php">Manage Questions</a>
+            <a href="view_question.php">Manage Questions</a>
         </div>
 
         <div class="logout-link">
