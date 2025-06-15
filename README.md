@@ -1,1 +1,1 @@
-This is a Online Quiz in ehich you can manage questions and take test.
+This is a Online Quiz in which you can manage questions and take test.
